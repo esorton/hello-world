@@ -21,5 +21,3 @@ Adding text in branch to experiment with pull request and subsequent merge:
 Markdown normally eats the new-line on consecutive lines.  Add two
 spaces to the end of the line to keep the new line.  This was not
 obvious to me and took a bit of searching to find the correct syntax.
-
-
